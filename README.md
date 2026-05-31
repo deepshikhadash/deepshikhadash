@@ -39,6 +39,5 @@ Technical: API documentation · REST concepts · Webhook fundamentals
 Languages: English · Bengali · Hindi · Urdu · Arabic
 ---
 Let's Connect
-📧 deepshikha@email.com  
-LinkedIn:   
+📧 deepshikha.dash90@email.com   
 📍 Austin, TX · Remote-ready · US Permanent Resident · No sponsorship required
